@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+.iceberg_section {
+    width: 67%;
+    background-size: cover;
+    background-position: center center;
+    border-top: 3px solid rgba(153, 77, 149, 1);
+    border-left: 3px solid rgba(153, 77, 149, 1);
+    border-right: 3px solid rgba(153, 77, 149, 1);
+    border-bottom: 3px solid rgba(153, 77, 149, 1);
+    margin: 0px auto;
+}
+
+.iceberg_section.s1 {
+    background-image: url('./static/img/iceberg_section_1.png');
+    height: 30vh;
+}
+
+.iceberg_section.s2 {
+    background-image: url('./static/img/iceberg_section_2.png');
+    height: 30vh;
+}
+
+.iceberg_section.s3 {
+    background-image: url('./static/img/iceberg_section_3.png');
+    height: 29vh;
+}
+
+.iceberg_section.s4 {
+    background-image: url('./static/img/iceberg_section_4.png');
+    height: 30vh;
+}
+
+.iceberg_section.s5 {
+    background-image: url('./static/img/iceberg_section_5.png');
+    height: 25vh;
+}
+
+.iceberg_section h3 {
+    text-align: center;
+    color: white;
+    text-shadow: black 3px 3px 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.iceberg_section ul li {
+    display: inline-block;
+    margin: 5px 10px;
+}
+
+.iceberg_section ul li a {
+    color: white;
+    text-shadow: black 1px 1px 2px;
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: bold;
+    vertical-align: text-bottom;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+
+.iceberg_section ul li a:hover {
+    color: rgb(224, 224, 224);
+    text-decoration: underline;
+}
