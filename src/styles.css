@@ -15,27 +15,27 @@ body {
 
 .iceberg_section.s1 {
     background-image: url('./static/img/iceberg_section_1.png');
-    height: 30vh;
+    height: 100%;
 }
 
 .iceberg_section.s2 {
     background-image: url('./static/img/iceberg_section_2.png');
-    height: 30vh;
+    height: 100%;
 }
 
 .iceberg_section.s3 {
     background-image: url('./static/img/iceberg_section_3.png');
-    height: 29vh;
+    height: 100%;
 }
 
 .iceberg_section.s4 {
     background-image: url('./static/img/iceberg_section_4.png');
-    height: 30vh;
+    height: 100%;
 }
 
 .iceberg_section.s5 {
     background-image: url('./static/img/iceberg_section_5.png');
-    height: 25vh;
+    height: 100%;
 }
 
 .iceberg_section h3 {
