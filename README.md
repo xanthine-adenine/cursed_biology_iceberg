@@ -16,3 +16,6 @@ Inspired by (or perhaps, shamelessly ripped-off from) the [Cursed Computer Icebe
 ### How are Ranks Decided?
 - Vibes
 - Personal taste
+
+### Special Thanks
+- Blackle Mori ([@suricrasia](https://lethargic.talkative.fish/@suricrasia)): for creating the [Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) and inspiring this project.
