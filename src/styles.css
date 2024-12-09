@@ -6,42 +6,38 @@ body {
     width: 67%;
     background-size: cover;
     background-position: center center;
-    border-top: 3px solid rgba(153, 77, 149, 1);
-    border-left: 3px solid rgba(153, 77, 149, 1);
-    border-right: 3px solid rgba(153, 77, 149, 1);
-    border-bottom: 3px solid rgba(153, 77, 149, 1);
+    border-top: 1px solid rgba(153, 77, 149, 1);
+    border-bottom: 1px solid rgba(153, 77, 149, 1);
+    border-left: 2px solid rgba(153, 77, 149, 1);
+    border-right: 2px solid rgba(153, 77, 149, 1);
     margin: 0px auto;
+    text-align: center;
+    min-height: 15rem;
 }
 
 .iceberg_section.s1 {
     background-image: url('./static/img/iceberg_section_1.png');
-    height: 100%;
 }
 
 .iceberg_section.s2 {
     background-image: url('./static/img/iceberg_section_2.png');
-    height: 100%;
 }
 
 .iceberg_section.s3 {
     background-image: url('./static/img/iceberg_section_3.png');
-    height: 100%;
 }
 
 .iceberg_section.s4 {
     background-image: url('./static/img/iceberg_section_4.png');
-    height: 100%;
 }
 
 .iceberg_section.s5 {
     background-image: url('./static/img/iceberg_section_5.png');
-    height: 100%;
 }
 
 .iceberg_section h3 {
-    text-align: center;
     color: white;
-    text-shadow: black 3px 3px 4px;
+    text-shadow: black 1px 1px 2px, black 1px -1px 2px, black 2px 2px 4px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -49,16 +45,20 @@ body {
     display: inline-block;
 }
 
+.iceberg_section ul li:nth-child(3n+1) {
+    transform: translateY(5px);
+}
+
 .iceberg_section ul li a {
     color: white;
-    text-shadow: black 1px 1px 2px;
+    text-shadow: black 1px 1px 2px, black 1px -1px 2px, black 2px 2px 4px;
     display: inline-block;
     margin: 10px 15px;
     font-weight: bold;
     vertical-align: text-bottom;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
-    font-size: 13px;
+    font-size: 1.1rem;
 }
 
 .iceberg_section ul li a:hover {
