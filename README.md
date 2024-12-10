@@ -4,10 +4,9 @@
 Inspired by (or perhaps, shamelessly ripped-off from) the [Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/). Catalogues and ranks some of the stranger parts of biology.
 
 ### What This is Not
-- A list of open questions in Biology.
-- Extremely preliminary research results.
-- Pseudoscience or facts that are inconclusive or poorly evidenced.
-- A comprehensive, objective ranking
+- A comprehensive list of open questions/mysteries in Biology.
+- A place for pseudoscience or things largely disproven.
+- An objective ranking.
 
 ### How are Topics Decided?
 - Vibes
