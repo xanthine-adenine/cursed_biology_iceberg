@@ -17,6 +17,7 @@ body {
 
 .iceberg_section.s1 {
     background-image: url('./static/img/iceberg_section_1.png');
+    border-top: 2px solid rgba(153, 77, 149, 1);
 }
 
 .iceberg_section.s2 {
@@ -33,6 +34,7 @@ body {
 
 .iceberg_section.s5 {
     background-image: url('./static/img/iceberg_section_5.png');
+    border-bottom: 2px solid rgba(153, 77, 149, 1);
 }
 
 .iceberg_section h3 {
