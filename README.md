@@ -1,7 +1,7 @@
 # Cursed Biology Iceberg
 
 ### Description
-Inspired by (or perhaps, shamelessly ripped-off from) the [Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/). Catalogues and ranks some of the stranger parts of biology.
+Inspired by (or perhaps, shamelessly ripped-off from) the [Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/). Catalogues and ranks some of the stranger parts of biology. View it [here](https://xanthine-adenine.github.io/cursed_biology_iceberg/) on GitHub Pages.
 
 ### What This is Not
 - A comprehensive list of open questions/mysteries in Biology.
