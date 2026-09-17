@@ -16,5 +16,8 @@ Inspired by (or perhaps, shamelessly ripped-off from) the [Cursed Computer Icebe
 - Vibes
 - Personal taste
 
+### AI Use
+AI is used here only as a text editor: given a link, a title, and a section, it writes the corresponding entry into the HTML. Every entry on this iceberg, and where it sits, is chosen by a human.
+
 ### Special Thanks
 - Blackle Mori ([@suricrasia](https://lethargic.talkative.fish/@suricrasia)): for creating the [Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) and inspiring this project.
