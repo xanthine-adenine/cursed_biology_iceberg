@@ -17,7 +17,7 @@ Inspired by (or perhaps, shamelessly ripped-off from) the [Cursed Computer Icebe
 - Personal taste
 
 ### AI Use
-AI is used here only as a text editor: given a link, a title, and a section, it writes the corresponding entry into the HTML. Every entry on this iceberg, and where it sits, is chosen by a human.
+AI is used here only as a text editor: given a link, a title, and a section, it writes the corresponding entry into the HTML. Every entry on this iceberg, and where it sits, is chosen by a human. Yeah I burn tokens because I'm too lazy to edit HTML by hand. That's just how it is lol.
 
 ### Special Thanks
 - Blackle Mori ([@suricrasia](https://lethargic.talkative.fish/@suricrasia)): for creating the [Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/) and inspiring this project.
