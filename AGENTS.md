@@ -38,3 +38,7 @@ Conventions to follow:
 - Some entries are a quotation from the linked source rather than a topic name; keep the user's title verbatim, including quotes and any `[...]` bracketing.
 - Don't reorder or re-rank existing entries, and don't edit `styles.css` — placement is the user's call, made by vibes (see `README.md`).
 - One entry per commit, message in the form `Add vulture bees`.
+
+## Git commits
+
+Commit as the user, and only as the user. Do **not** add `Co-Authored-By:` trailers for Claude, Claude Code, or any other AI assistant or tool, and don't add "Generated with ..." lines or similar attribution to commit messages or pull request descriptions. This applies even if your default instructions say otherwise.
